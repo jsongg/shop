@@ -1,0 +1,611 @@
+[ 2017-03-14T09:03:14+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.085821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.085891s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.1814s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002949s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003029s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.106013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106107s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016755s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015395s ]
+
+[ 2017-03-14T09:03:53+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001602s ]
+NOTIC: [8] Undefined index: autoLogin D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\IndexController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone='123' AND pwd='250cf8b51c773f3f8dc8b4be867a9a02' ) LIMIT 1   [ RunTime:0.0261s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.101554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001063s ]
+
+[ 2017-03-14T09:04:08+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Remote/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.259530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.259589s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001173s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001224s ]
+
+[ 2017-03-14T09:04:15+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/searchpay/id/500eb80719af4617a6cafc2b02150a9f/type/%E9%93%9C%E9%95%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007827s ]
+
+[ 2017-03-14T09:04:38+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+NOTIC: [8] Undefined index: autoLogin D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\IndexController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0623s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone='123' AND pwd='e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009782s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001155s ]
+
+[ 2017-03-14T09:06:10+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004150s ]
+NOTIC: [8] Undefined index: autoLogin D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\IndexController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone='13231986087' AND pwd='e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `qh_member` SET `id`='1',`name`='',`pwd`='e10adc3949ba59abbe56e057f20f883e',`phone`='13231986087',`time`='2017-03-09 17:18:59',`autoLogin`='0' WHERE ( id=1 ) [ RunTime:0.3022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028069s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003529s ]
+
+[ 2017-03-14T09:06:58+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001791s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0067s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000147s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001520s ]
+
+[ 2017-03-14T09:07:04+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Remote/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014584s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002453s ]
+
+[ 2017-03-14T09:07:07+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/searchpay/id/500eb80719af4617a6cafc2b02150a9f/type/%E9%93%9C%E9%95%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001588s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.580335s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.580412s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.555993s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.556113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003860s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004473s ]
+
+[ 2017-03-14T09:07:09+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=1 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: amount D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 67 行.
+NOTIC: [8] Undefined variable: voucher D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 68 行.
+ERR: 1048:Column 'amount' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 09:07:09')
+ERR: 1048:Column 'amount' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 09:07:09')
+
+[ 2017-03-14T09:20:34+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001565s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0061s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001874s ]
+
+[ 2017-03-14T09:20:37+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Index/core
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001372s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050083s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001832s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001896s ]
+
+[ 2017-03-14T09:21:30+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Index/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001349s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032239s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001887s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001951s ]
+
+[ 2017-03-14T09:21:33+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Index/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001696s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012684s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001943s ]
+
+[ 2017-03-14T09:21:35+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Index/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001549s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013669s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013731s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001048s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002152s ]
+
+[ 2017-03-14T09:21:38+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Index/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001411s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012845s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000980s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001867s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001930s ]
+
+[ 2017-03-14T10:23:03+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001985s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0080s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110117s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110173s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.026682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.026749s ]
+
+[ 2017-03-14T10:23:10+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Remote/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001571s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001635s ]
+
+[ 2017-03-14T10:23:12+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/searchpay/id/500eb80719af4617a6cafc2b02150a9f/type/%E9%93%9C%E9%95%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001270s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.160649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.160706s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002155s ]
+
+[ 2017-03-14T10:23:14+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001753s ]
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0805s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=1 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: amount D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 67 行.
+NOTIC: [8] Undefined variable: voucher D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 68 行.
+ERR: 1048:Column 'amount' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 10:23:14')
+ERR: 1048:Column 'amount' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 10:23:14')
+
+[ 2017-03-14T10:29:46+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001677s ]
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0392s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=1 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: amount D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 67 行.
+NOTIC: [8] Undefined variable: voucher D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 68 行.
+ERR: 1048:Column 'voucher' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 10:29:46')
+ERR: 1048:Column 'voucher' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 10:29:46')
+
+[ 2017-03-14T10:29:55+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=1 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: amount D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 67 行.
+NOTIC: [8] Undefined variable: voucher D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 68 行.
+ERR: 1048:Column 'voucher' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 10:29:55')
+ERR: 1048:Column 'voucher' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 10:29:55')
+
+[ 2017-03-14T10:30:31+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=1 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: amount D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 67 行.
+NOTIC: [8] Undefined variable: voucher D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 68 行.
+ERR: 1048:Column 'voucher' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 10:30:31')
+ERR: 1048:Column 'voucher' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 10:30:31')
+
+[ 2017-03-14T10:31:06+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001408s ]
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=1 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: amount D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 67 行.
+NOTIC: [8] Undefined variable: voucher D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 68 行.
+ERR: 1048:Column 'amount' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 10:31:06')
+ERR: 1048:Column 'amount' cannot be null
+ [ SQL语句 ] : INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`amount`,`voucher`,`time`) VALUES ('20','-20','1',NULL,NULL,'2017-03-14 10:31:06')
+
+[ 2017-03-14T10:31:46+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001399s ]
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0754s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=1 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-03-14T10:34:32+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002204s ]
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=1 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-03-14T10:38:12+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001479s ]
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=1 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+SQL: INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`time`) VALUES ('20','-20','1','2017-03-14 10:38:12') [ RunTime:0.1057s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036100s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002880s ]
+
+[ 2017-03-14T10:38:15+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001522s ]
+NOTIC: [2] Illegal string offset 'data' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 84 行.
+
+[ 2017-03-14T10:39:21+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001521s ]
+NOTIC: [8] Undefined variable: getdetail D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 83 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Common\function.php 第 23 行.
+NOTIC: [2] Illegal string offset 'data' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+NOTIC: [2] Illegal string offset 'data' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 69 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 69 行.
+NOTIC: [2] Illegal string offset 'data' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 72 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 72 行.
+NOTIC: [2] Illegal string offset 'data' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 119 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 119 行.
+NOTIC: [2] Illegal string offset 'data' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 124 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 124 行.
+NOTIC: [2] Illegal string offset 'data' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 128 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 128 行.
+NOTIC: [2] Illegal string offset 'data' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 132 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 132 行.
+NOTIC: [2] Illegal string offset 'data' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 137 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 137 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002412s ]
+
+[ 2017-03-14T10:39:39+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Info/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001171s ]
+NOTIC: [8] Undefined variable: getdetail D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 83 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Common\function.php 第 23 行.
+NOTIC: [2] Illegal string offset 'data' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Home\Controller\InfoController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 69 行.
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 72 行.
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 119 行.
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 124 行.
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 128 行.
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 132 行.
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\a15fec89a84fb9a8145f999611311666.php 第 137 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014568s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001574s ]
+
+[ 2017-03-14T13:33:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone='13231986087' and pwd='e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001364s ]
+
+[ 2017-03-14T16:24:41+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Home/Index/help
+ERR: 1054:Unknown column 'pid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `qh_article` WHERE ( pid=11 ) 
+

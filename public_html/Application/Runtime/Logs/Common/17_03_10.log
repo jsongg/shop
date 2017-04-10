@@ -1,0 +1,210 @@
+[ 2017-03-10T09:04:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-03-10T10:07:19+08:00 ] 127.0.0.1 /hdtg/App/Admin/Tpl/Public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Hdtg
+
+[ 2017-03-10T10:07:19+08:00 ] 127.0.0.1 /index.php/__CONTROL__/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+ERR: 无法加载模块:__CONTROL__
+
+[ 2017-03-10T10:08:07+08:00 ] 127.0.0.1 /Application/Public/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-10T10:08:07+08:00 ] 127.0.0.1 /Application/Public/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-10T10:08:07+08:00 ] 127.0.0.1 /Application/Public/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-10T10:08:07+08:00 ] 127.0.0.1 /Application/Public/css/reset.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-10T10:08:07+08:00 ] 127.0.0.1 /hdtg/App/Admin/Tpl/Public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Hdtg
+
+[ 2017-03-10T10:08:07+08:00 ] 127.0.0.1 /index.php/__CONTROL__/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:__CONTROL__
+
+[ 2017-03-10T10:10:18+08:00 ] 127.0.0.1 /Application/Public/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-10T10:10:18+08:00 ] 127.0.0.1 /Application/Public/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-10T10:10:18+08:00 ] 127.0.0.1 /Application/Public/css/reset.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-10T10:10:18+08:00 ] 127.0.0.1 /Application/Public/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-10T10:10:18+08:00 ] 127.0.0.1 /hdtg/App/Admin/Tpl/Public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+ERR: 无法加载模块:Hdtg
+
+[ 2017-03-10T10:10:18+08:00 ] 127.0.0.1 /index.php/__CONTROL__/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+ERR: 无法加载模块:__CONTROL__
+
+[ 2017-03-10T10:12:04+08:00 ] 127.0.0.1 /index.php/__CONTROL__/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+ERR: 无法加载模块:__CONTROL__
+
+[ 2017-03-10T10:13:17+08:00 ] 127.0.0.1 /index.php/__CONTROL__/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+ERR: 无法加载模块:__CONTROL__
+
+[ 2017-03-10T10:13:21+08:00 ] 127.0.0.1 /index.php/%7B%7CU('Admin/Index/welcome')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001065s ]
+ERR: 无法加载模块:{|U('Admin
+
+[ 2017-03-10T10:13:28+08:00 ] 127.0.0.1 /index.php/%7B%7CU('Admin/Order/index')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+ERR: 无法加载模块:{|U('Admin
+
+[ 2017-03-10T10:13:29+08:00 ] 127.0.0.1 /index.php/%7B%7CU('Admin/Goods/index')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:{|U('Admin
+
+[ 2017-03-10T10:13:29+08:00 ] 127.0.0.1 /index.php/%7B%7CU('Admin/Shop/index')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+ERR: 无法加载模块:{|U('Admin
+
+[ 2017-03-10T10:13:30+08:00 ] 127.0.0.1 /index.php/%7B%7CU('Admin/Category/index')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001099s ]
+ERR: 无法加载模块:{|U('Admin
+
+[ 2017-03-10T10:13:31+08:00 ] 127.0.0.1 /index.php/%7B%7CU('Admin/Category/index')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001190s ]
+ERR: 无法加载模块:{|U('Admin
+
+[ 2017-03-10T10:15:31+08:00 ] 127.0.0.1 /index.php/__CONTROL__/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001958s ]
+ERR: 无法加载模块:__CONTROL__
+
+[ 2017-03-10T10:15:36+08:00 ] 127.0.0.1 /index.php/%7B%7CU('Admin/Index/welcome')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+ERR: 无法加载模块:{|U('Admin
+
+[ 2017-03-10T10:15:39+08:00 ] 127.0.0.1 /index.php/%7B%7CU('Admin/Category/index')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+ERR: 无法加载模块:{|U('Admin
+
+[ 2017-03-10T10:15:40+08:00 ] 127.0.0.1 /index.php/%7B%7CU('Admin/Category/index')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:{|U('Admin
+
+[ 2017-03-10T10:15:52+08:00 ] 127.0.0.1 /index.php/__CONTROL__/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001641s ]
+ERR: 无法加载模块:__CONTROL__
+
+[ 2017-03-10T10:15:53+08:00 ] 127.0.0.1 /index.php/%7B%7CU('Admin/Login/logout')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+ERR: 无法加载模块:{|U('Admin
+
+[ 2017-03-10T10:16:37+08:00 ] 127.0.0.1 /index.php/%7B%7CU('Admin/Category/index')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+ERR: 无法加载模块:{|U('Admin
+
+[ 2017-03-10T10:16:58+08:00 ] 127.0.0.1 /index.php/__CONTROL__/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+ERR: 无法加载模块:__CONTROL__
+
+[ 2017-03-10T10:20:55+08:00 ] 127.0.0.1 /index.php/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001673s ]
+ERR: 无法加载模块:Category
+
+[ 2017-03-10T10:21:17+08:00 ] 127.0.0.1 /index.php/__CONTRL__/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001173s ]
+ERR: 无法加载模块:__CONTRL__
+
+[ 2017-03-10T10:21:52+08:00 ] 127.0.0.1 /index.php/__CONTRL__/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+ERR: 无法加载模块:__CONTRL__
+
+[ 2017-03-10T10:22:57+08:00 ] 127.0.0.1 /index.php/__CONTRL__/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001456s ]
+ERR: 无法加载模块:__CONTRL__
+

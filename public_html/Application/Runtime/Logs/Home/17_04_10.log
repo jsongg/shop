@@ -1,0 +1,198 @@
+[ 2017-04-10T06:20:30+08:00 ] 110.75.145.2 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009926s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2017-04-10T06:20:32+08:00 ] 110.75.145.1 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-04-10T06:20:38+08:00 ] 110.75.145.2 /index.php/Home/Index/core
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='陶瓷识别' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='青铜识别' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='铜镜识别' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='和田玉籽料识别' ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033402s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-04-10T06:20:43+08:00 ] 110.75.145.2 /index.php/Home/Index/help/aid/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+SQL: SHOW COLUMNS FROM `qh_category` [ RunTime:0.0005s ]
+SQL: SELECT `cid`,`cname` FROM `qh_category` WHERE ( pid=11 ) ORDER BY cid asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: where /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 133 行.
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `qh_article` WHERE `cid` IN ('16','17','18','19','') ORDER BY cid asc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 82 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 83 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 84 行.
+NOTIC: [8] Undefined variable: content /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 92 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021463s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-04-10T06:20:49+08:00 ] 110.75.145.2 /index.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009657s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-04-10T06:20:54+08:00 ] 110.75.145.1 /index.php/Home/Index/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] Undefined index: aid /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 127 行.
+SQL: SHOW COLUMNS FROM `qh_category` [ RunTime:0.0005s ]
+SQL: SELECT `cid`,`cname` FROM `qh_category` WHERE ( pid=11 ) ORDER BY cid asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: where /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 133 行.
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_article` WHERE `cid` IN ('16','17','18','19','') ORDER BY cid asc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 82 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 83 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 84 行.
+NOTIC: [8] Undefined variable: content /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 92 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008652s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-04-10T06:20:59+08:00 ] 110.75.145.1 /index.php/Home/Index/help/aid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+SQL: SHOW COLUMNS FROM `qh_category` [ RunTime:0.0005s ]
+SQL: SELECT `cid`,`cname` FROM `qh_category` WHERE ( pid=11 ) ORDER BY cid asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: where /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 133 行.
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_article` WHERE `cid` IN ('16','17','18','19','') ORDER BY cid asc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 82 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 83 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007881s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-04-10T08:51:21+08:00 ] 42.156.251.185 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+

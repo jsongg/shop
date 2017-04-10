@@ -1,0 +1,50 @@
+body {font: 14px "microsoft yahei", Arial, Helvetica, sans-serif;margin: 0;padding: 0;}
+input{padding: 0;margin: 0;outline: none;}
+.header{padding: 30px 50px 0 0}
+.header a{color: #333333;text-decoration: underline}
+.header a:hover{color: #264198}
+.header>span{margin-left: 30px}
+.main{height: 100%;min-height: 800px;position: relative}
+.index-center{position: absolute;top: 0;bottom: 0;left: 0;right: 0}
+.logo{margin-top: 20%;margin-bottom: 30px}
+.search-box,.search-btn{height: 38px;}
+.search-box{border: 1px solid #DFDFDF;border-right: 0;background: #F9F8F8}
+.search-box.border{border-color: #264198;background: #ffffff}
+.search-btn{border: 1px solid #264198;background: #264198;color: #ffffff}
+.img-contrast{margin-top: 35px}
+.img-contrast .panel{border: 1px solid #DDDDDD}
+.bg-blue{background: #264198}
+.text-white{color: #ffffff}
+.img-contrast table tr td{border-left: 1px solid #ffffff;background: #F7F7F7}
+.img-contrast table tr td:first-child{border-left: 0}
+.img-contrast table tr td>div{padding-left: 20px}
+.taoci-head{padding: 5px 0}
+.img-contrast table tr td>div.s-text{color: #9f9f9f;margin: 7px 0 14px 0}
+.img-upload>.btn{border: 1px solid #9f9f9f;background: none;margin-bottom: 30px;color: #9f9f9f}
+.img-contrast table tr td:hover{background: #F1F1F1}
+.img-upload>.btn:hover{border-color: #264198;color: #264198}
+.footer{position: absolute;bottom: -20px;width: 100%;text-align: center}
+.footer>div{margin-bottom: 20px}
+.tab{border-bottom-width: 2px}
+.tab>li{width: 50%;text-align: center;margin-bottom: -2px}
+.tab>li>a{color: #1D1D1D}
+.tab > li.active > a, .tab > li.active > a:hover, .tab > li.active > a:focus{border-bottom: 2px solid #264198;border-top: none;border-left: none;border-right: none;color: #264198}
+.has-feedback .form-control {
+    padding-left: 30px;
+    padding-right: 0;
+}
+.form-control-feedback{left: 0;right: auto;color: #BBBBBB}
+.btn:hover{color: #ffffff}
+
+
+
+
+
+
+
+
+
+
+
+
+

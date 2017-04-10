@@ -1,0 +1,336 @@
+[ 2017-03-01T11:11:02+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/fonts/glyphicons-halflings-regular.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001929s ]
+ERR: 无法加载模块:Fonts
+
+[ 2017-03-01T11:11:02+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001086s ]
+ERR: 无法加载模块:Css
+
+[ 2017-03-01T11:11:02+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+ERR: 无法加载模块:Css
+
+[ 2017-03-01T11:11:02+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/jquery-1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:11:02+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:11:03+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/ma.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:11:03+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:11:03+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/logo-sm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:11:03+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:14:34+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/fonts/glyphicons-halflings-regular.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+ERR: 无法加载模块:Fonts
+
+[ 2017-03-01T11:14:34+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+ERR: 无法加载模块:Css
+
+[ 2017-03-01T11:14:34+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+ERR: 无法加载模块:Css
+
+[ 2017-03-01T11:14:34+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/jquery-1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:14:35+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/logo-sm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001385s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:14:35+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/ma.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002116s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:14:35+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002103s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:14:35+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:14:35+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005640s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:16:24+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/fonts/glyphicons-halflings-regular.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001618s ]
+ERR: 无法加载模块:Fonts
+
+[ 2017-03-01T11:16:24+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/ma.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:16:24+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002134s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:16:24+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/logo-sm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:16:24+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005397s ]
+ERR: 无法加载模块:Css
+
+[ 2017-03-01T11:16:24+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002029s ]
+ERR: 无法加载模块:Css
+
+[ 2017-03-01T11:16:25+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/jquery-1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003064s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:16:25+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:16:25+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001422s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:17:05+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:17:05+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/logo-sm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001460s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:17:05+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028861s ]
+ERR: 无法加载模块:Css
+
+[ 2017-03-01T11:17:05+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/fonts/glyphicons-halflings-regular.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+ERR: 无法加载模块:Fonts
+
+[ 2017-03-01T11:17:05+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+ERR: 无法加载模块:Css
+
+[ 2017-03-01T11:17:05+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:17:05+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/ma.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:17:05+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/jquery-1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:17:06+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:17:06+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:26:27+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/fonts/glyphicons-halflings-regular.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001936s ]
+ERR: 无法加载模块:Fonts
+
+[ 2017-03-01T11:26:27+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/jquery-1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:26:27+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:26:27+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001508s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:26:27+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/logo-sm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:26:27+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:27:36+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/jquery-1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:27:36+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002779s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:44:10+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/jquery-1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:44:10+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+ERR: 无法加载模块:Css
+
+[ 2017-03-01T11:44:10+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/fonts/glyphicons-halflings-regular.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003454s ]
+ERR: 无法加载模块:Fonts
+
+[ 2017-03-01T11:44:10+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/css/style2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003425s ]
+ERR: 无法加载模块:Css
+
+[ 2017-03-01T11:44:10+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/logo2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:44:10+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+ERR: 无法加载模块:Js
+
+[ 2017-03-01T11:44:10+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001071s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T11:44:10+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/images/phone-ma.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-01T13:39:54+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/m
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+ERR: 无法加载模块:M
+
+[ 2017-03-01T13:49:23+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+ERR: 无法加载模块:Index
+
+[ 2017-03-01T17:29:35+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/index/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Index
+

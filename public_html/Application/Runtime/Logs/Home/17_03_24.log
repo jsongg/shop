@@ -1,0 +1,1695 @@
+[ 2017-03-24T09:13:43+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-24T09:14:10+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-24T09:15:04+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-24T10:11:31+08:00 ] 119.253.37.157 /index.php/Home/Index/verifyreg?phone=13231986087
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone=13231986087 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-24T10:18:55+08:00 ] 119.253.37.157 /index.php/Home/Index/verifyreg?phone=13231986087
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone=13231986087 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-03-24T10:25:18+08:00 ] 119.253.37.157 /index.php/Home/Index/verifyreg?phone=13231986087
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone=13231986087 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T13:31:17+08:00 ] 119.253.37.157 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-03-24T13:32:02+08:00 ] 119.253.37.157 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-03-24T13:32:08+08:00 ] 119.253.37.157 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone='13231986087' and pwd='e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008370s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-03-24T13:33:04+08:00 ] 119.253.37.157 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-24T13:33:24+08:00 ] 119.253.37.157 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+NOTIC: [8] Undefined index: autoLogin /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone='13231986087' AND pwd='e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `qh_member` SET `id`='7',`name`='',`pwd`='e10adc3949ba59abbe56e057f20f883e',`phone`='13231986087',`time`='2017-03-24 10:27:36',`autoLogin`='0' WHERE ( id=7 ) [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-03-24T13:33:27+08:00 ] 119.253.37.157 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008076s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008122s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-03-24T13:34:15+08:00 ] 119.253.37.157 /index.php/Home/Remote/searchimgs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005101s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-03-24T13:34:21+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 146 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004064s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+
+[ 2017-03-24T13:34:27+08:00 ] 119.253.37.157 /index.php/Home/Remote/searchimgs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+NOTIC: [8] Undefined offset: 0 /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 47 行.
+NOTIC: [8] Undefined index:  /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 49 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+
+[ 2017-03-24T13:34:43+08:00 ] 119.253.37.157 /index.php/Home/Remote/searchimgs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-03-24T13:34:48+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 146 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004203s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+
+[ 2017-03-24T13:34:56+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 146 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+
+[ 2017-03-24T13:35:01+08:00 ] 119.253.37.157 /index.php/Home/Remote/searchimgs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+NOTIC: [8] Undefined offset: 0 /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 47 行.
+NOTIC: [8] Undefined index:  /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 49 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003878s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+
+[ 2017-03-24T13:35:17+08:00 ] 119.253.37.157 /index.php/Home/Remote/searchimgs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005300s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-24T13:35:23+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 146 行.
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=7 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`time`) VALUES ('20','440','7','2017-03-24 13:35:22') [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005397s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-03-24T13:35:24+08:00 ] 119.253.37.157 /index.php/Home/Remote/piclist/flag/20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-03-24T13:50:57+08:00 ] 119.253.37.157 /index.php/Home/Remote/piclist/flag/50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007756s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-03-24T13:52:19+08:00 ] 123.151.138.58 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 125.39.57.38 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016637s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 111.161.105.16 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002137s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067494s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 123.126.124.148 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016385s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004663s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 123.126.118.139 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015397s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079513s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079562s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 125.39.208.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017514s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 125.39.57.39 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.022372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022424s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 123.126.118.139 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069466s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 111.161.52.28 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018391s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061555s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 111.30.132.205 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013409s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075782s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075827s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 111.30.137.184 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076315s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076362s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 125.39.57.39 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068574s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 111.30.132.208 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010387s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051566s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051612s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 111.30.132.148 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.022337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022396s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072199s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010955s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 111.30.132.205 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066950s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 111.30.131.144 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007748s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007798s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 111.30.137.185 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 111.30.131.144 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-03-24T13:52:20+08:00 ] 111.30.137.186 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-24T13:52:30+08:00 ] 119.253.37.157 /index.php/Home/Remote/piclist/flag/20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007051s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-03-24T14:09:26+08:00 ] 119.253.37.157 /index.php/Home/Remote/detail/id/5e7ba616-de19-11e6-8386-00163e302e1c/type/%E8%9F%A0%E8%9E%AD%E7%BA%B9%E9%95%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+NOTIC: [8] Use of undefined constant trur - assumed 'trur' /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 237 行.
+NOTIC: [8] Use of undefined constant trur - assumed 'trur' /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 238 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008571s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008619s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-03-24T14:54:09+08:00 ] 119.253.37.157 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone='13231986087' and pwd='e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-03-24T14:54:16+08:00 ] 119.253.37.157 /index.php/Home/Remote/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007873s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-03-24T14:54:19+08:00 ] 119.253.37.157 /index.php/Home/Info/searchpay/id/1831665790d8460386aa9f4626f9289d/type/%E9%99%B6%E7%93%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006361s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-03-24T14:59:54+08:00 ] 119.253.37.157 /index.php/Home/Info/searchpay/id/7762218cf2124fc5b98de82c551c767c/type/%E9%93%9C%E9%95%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-03-24T15:11:52+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=7 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`time`) VALUES ('20','90','7','2017-03-24 15:11:52') [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `qh_order` [ RunTime:0.0003s ]
+SQL: INSERT INTO `qh_order` (`orderNum`,`goodName`,`amount`,`time`,`mid`) VALUES ('201703241511521778','陶瓷','20','2017-03-24 15:11:52','7') [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-03-24T15:53:32+08:00 ] 119.253.37.157 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007623s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-03-24T16:04:11+08:00 ] 119.253.37.157 /index.php/Home/Index/core
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='陶瓷识别' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='青铜识别' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='铜镜识别' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='和田玉籽料识别' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006876s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-03-24T16:04:12+08:00 ] 119.253.37.157 /index.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007980s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-03-24T16:04:14+08:00 ] 119.253.37.157 /index.php/Home/Index/help/aid/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+SQL: SHOW COLUMNS FROM `qh_category` [ RunTime:0.0005s ]
+SQL: SELECT `cid`,`cname` FROM `qh_category` WHERE ( pid=11 ) ORDER BY cid asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: where /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `qh_article` WHERE `cid` IN ('16','17','18','19','') ORDER BY cid asc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 82 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 83 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 84 行.
+NOTIC: [8] Undefined variable: content /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 92 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007470s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-03-24T16:04:20+08:00 ] 119.253.37.157 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007432s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-03-24T16:49:33+08:00 ] 119.253.37.157 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+NOTIC: [8] Undefined index: autoLogin /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone='13231986087' AND pwd='e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `qh_member` SET `id`='7',`name`='',`pwd`='e10adc3949ba59abbe56e057f20f883e',`phone`='13231986087',`time`='2017-03-24 10:27:36',`autoLogin`='0' WHERE ( id=7 ) [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-03-24T16:54:07+08:00 ] 119.253.37.157 /index.php/Home/Index/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+NOTIC: [8] Undefined index: aid /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `qh_category` [ RunTime:0.0005s ]
+SQL: SELECT `cid`,`cname` FROM `qh_category` WHERE ( pid=11 ) ORDER BY cid asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: where /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_article` WHERE `cid` IN ('16','17','18','19','') ORDER BY cid asc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 82 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 83 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 84 行.
+NOTIC: [8] Undefined variable: content /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 92 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007904s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-03-24T16:54:08+08:00 ] 119.253.37.157 /index.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-24T16:54:09+08:00 ] 119.253.37.157 /index.php/Home/Index/core
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='陶瓷识别' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='青铜识别' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='铜镜识别' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='和田玉籽料识别' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007114s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-03-24T16:54:18+08:00 ] 119.253.37.157 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007541s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-03-24T17:33:28+08:00 ] 119.253.37.157 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009723s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009788s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2017-03-24T17:33:43+08:00 ] 119.253.37.157 /index.php/Home/Index/help/aid/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+SQL: SHOW COLUMNS FROM `qh_category` [ RunTime:0.0005s ]
+SQL: SELECT `cid`,`cname` FROM `qh_category` WHERE ( pid=11 ) ORDER BY cid asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: where /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `qh_article` WHERE `cid` IN ('16','17','18','19','') ORDER BY cid asc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 82 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 83 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 84 行.
+NOTIC: [8] Undefined variable: content /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 92 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007438s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T17:33:45+08:00 ] 119.253.37.157 /index.php/Home/Index/help/aid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+SQL: SHOW COLUMNS FROM `qh_category` [ RunTime:0.0005s ]
+SQL: SELECT `cid`,`cname` FROM `qh_category` WHERE ( pid=11 ) ORDER BY cid asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: where /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_article` WHERE `cid` IN ('16','17','18','19','') ORDER BY cid asc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 82 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 83 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-24T17:33:47+08:00 ] 119.253.37.157 /index.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010669s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-03-24T17:33:49+08:00 ] 119.253.37.157 /index.php/Home/Index/core
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='陶瓷识别' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='青铜识别' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='铜镜识别' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='和田玉籽料识别' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006616s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-03-24T17:33:50+08:00 ] 119.253.37.157 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007775s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-03-24T17:48:45+08:00 ] 119.253.37.157 /index.php/Home/Remote/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007018s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007082s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-03-24T17:48:47+08:00 ] 119.253.37.157 /index.php/Home/Info/searchpay/id/413f515131d744598374e5a58eaa72a8/type/%E9%99%B6%E7%93%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-03-24T17:49:02+08:00 ] 119.253.37.157 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8] Undefined index: autoLogin /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone='13231986087' AND pwd='e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `qh_member` SET `id`='7',`name`='',`pwd`='e10adc3949ba59abbe56e057f20f883e',`phone`='13231986087',`time`='2017-03-24 16:53:52',`autoLogin`='0' WHERE ( id=7 ) [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003884s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-24T17:49:08+08:00 ] 119.253.37.157 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-03-24T17:49:14+08:00 ] 119.253.37.157 /index.php/Home/Remote/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-24T17:49:16+08:00 ] 119.253.37.157 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-03-24T17:49:23+08:00 ] 119.253.37.157 /index.php/Home/Remote/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008820s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-03-24T17:49:24+08:00 ] 119.253.37.157 /index.php/Home/Info/searchpay/id/1831665790d8460386aa9f4626f9289d/type/%E9%99%B6%E7%93%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006270s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-03-24T17:49:26+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+SQL: SHOW COLUMNS FROM `qh_account` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_account` WHERE ( mid=7 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `qh_account` (`consume`,`balance`,`mid`,`time`) VALUES ('20','9740','7','2017-03-24 17:49:26') [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `qh_order` [ RunTime:0.0003s ]
+SQL: INSERT INTO `qh_order` (`orderNum`,`goodName`,`amount`,`time`,`mid`) VALUES ('201703241749266201','陶瓷','20','2017-03-24 17:49:26','7') [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-03-24T17:49:27+08:00 ] 119.253.37.157 /index.php/Home/Info/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8] Use of undefined constant trur - assumed 'trur' /www/web/qinghuaci/public_html/Application/Home/Controller/InfoController.class.php 第 127 行.
+NOTIC: [8] Use of undefined constant trur - assumed 'trur' /www/web/qinghuaci/public_html/Application/Home/Controller/InfoController.class.php 第 128 行.
+
+[ 2017-03-24T17:52:49+08:00 ] 119.253.37.157 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008611s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008655s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-03-24T17:52:59+08:00 ] 119.253.37.157 /index.php/Home/Index/core
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='陶瓷识别' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='青铜识别' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='铜镜识别' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `qh_article` WHERE ( title='和田玉籽料识别' ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007771s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-03-24T17:53:01+08:00 ] 119.253.37.157 /index.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009396s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009450s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T17:53:03+08:00 ] 119.253.37.157 /index.php/Home/Index/help/aid/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+SQL: SHOW COLUMNS FROM `qh_category` [ RunTime:0.0006s ]
+SQL: SELECT `cid`,`cname` FROM `qh_category` WHERE ( pid=11 ) ORDER BY cid asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: where /www/web/qinghuaci/public_html/Application/Home/Controller/IndexController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `qh_article` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_article` WHERE `cid` IN ('16','17','18','19','') ORDER BY cid asc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 82 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 83 行.
+NOTIC: [8] Undefined variable: aid /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 84 行.
+NOTIC: [8] Undefined variable: content /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2730f61f2bb64d31cdd75e20f695f34c.php 第 92 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007956s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-24T17:53:44+08:00 ] 119.253.37.157 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' /www/web/qinghuaci/public_html/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-24T17:54:32+08:00 ] 119.253.37.157 /index.php/Home/Remote/searchimgs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005143s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-03-24T17:54:37+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 146 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003752s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003815s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+
+[ 2017-03-24T17:54:46+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 146 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+
+[ 2017-03-24T17:55:12+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/web/qinghuaci/public_html/Application/Home/Controller/RemoteController.class.php 第 146 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+

@@ -1,0 +1,45 @@
+[ 2017-03-13T09:07:20+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.066304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018969s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.2154s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.071485s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.071687s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.216793s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.216908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016465s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015395s ]
+
+[ 2017-03-13T11:13:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001478s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone='13231986087' and pwd='e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Use of undefined constant COMMON_PUBLIC - assumed 'COMMON_PUBLIC' D:\xampp\htdocs\HUITENG\w79_qinghuaci\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015721s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015833s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001740s ]
+

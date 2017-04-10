@@ -1,0 +1,42 @@
+[ 2017-03-31T09:08:50+08:00 ] 119.253.37.157 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-03-31T10:56:22+08:00 ] 211.100.11.181 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-03-31T11:24:07+08:00 ] 119.253.37.157 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-03-31T14:53:18+08:00 ] 211.100.11.181 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-03-31T21:24:33+08:00 ] 218.241.251.236 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-03-31T21:28:07+08:00 ] 218.241.251.236 /Application/Public//Application/Public//Application/Public/images/glyphicons-halflings-regular.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-31T21:42:10+08:00 ] 218.241.251.236 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: 无法加载模块:Favicon
+

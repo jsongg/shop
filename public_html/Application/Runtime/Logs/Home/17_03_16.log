@@ -1,0 +1,9 @@
+[ 2017-03-16T10:32:18+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-03-16T10:33:45+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-16T10:47:34+08:00 ] 127.0.0.1 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+

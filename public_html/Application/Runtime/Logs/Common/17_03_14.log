@@ -1,0 +1,24 @@
+[ 2017-03-14T09:04:08+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Public//HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Public//HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Public/images/glyphicons-halflings-regular.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-14T09:07:04+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Public//HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Public//HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Public/images/glyphicons-halflings-regular.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-14T10:23:10+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Public//HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Public//HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Public/images/glyphicons-halflings-regular.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-14T13:33:13+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:Favicon
+

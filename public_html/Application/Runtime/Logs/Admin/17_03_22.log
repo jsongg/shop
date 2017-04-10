@@ -1,0 +1,10 @@
+[ 2017-03-22T16:11:21+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Admin/Login/showCode
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+
+[ 2017-03-22T16:11:42+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Admin/Login/showCode
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002075s ]
+

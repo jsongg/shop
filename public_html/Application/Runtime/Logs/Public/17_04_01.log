@@ -1,0 +1,20 @@
+[ 2017-04-01T22:10:30+08:00 ] 140.205.201.32 /Public/lottery/roulette/images/b0-2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-04-01T22:10:31+08:00 ] 140.205.201.32 /Public/img/fotorama.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2017-04-01T22:10:45+08:00 ] 140.205.201.32 /public/images/xueli_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-04-01T22:11:08+08:00 ] 140.205.201.32 /public/plug/shipplug/exp04.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+

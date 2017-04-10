@@ -1,0 +1,51 @@
+数据库conn.tianrunshunteng.com/dbconn
+
+
+wwwroot=huic惠城
+
+
+nav.php1网站通用信息
+2网站图库
+3友情链接
+4登录会员信息
+5登陆提醒
+6购物车订单
+7主导航
+
+
+i.php318修改
+
+
+fk_group_goods_group_shop_idx
+
+alter table `group_goods` drop foreign key  `fk_group_goods_group_shop_idx`;
+
+
+sql备份
+
+mysqldump.exe软件用来备份
+mysqldump.exe是一种客户端，需要操作服务器：必须连接认证
+mysqldump/mysqldump.exe -hpup 【数据库名字 【数据表名字1 数字表名字2.。。】】>外部文件目录
+
+
+http://player.youku.com/player.php/sid/XMTQwMjk0MjA1Mg==/v.swf
+
+
+
+
+
+<div class='file-actions'>\
+            <div class='file-footer-buttons'>\
+            <button type='button' class='kv-file-remove btn btn-xs btn-default ' title='删除文件'><i class='glyphicon glyphicon-trash text-danger'></i></button><button type='button' class='kv-file-zoom btn btn-xs btn-default' title='查看详情'>\
+            <i class='glyphicon glyphicon-zoom-in'></i></button></div><div class='clearfix'></div></div>\
+
+
+
+
+
+
+
+
+
+2.13   下午2
+

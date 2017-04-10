@@ -1,0 +1,7 @@
+[ 2017-03-16T12:00:04+08:00 ] 127.0.0.1 /api/index/register
+ERR: 无法加载控制器:Index
+
+[ 2017-03-16T14:41:45+08:00 ] 127.0.0.1 /api/index/register
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `qh_member` WHERE ( phone= ) LIMIT 1  
+

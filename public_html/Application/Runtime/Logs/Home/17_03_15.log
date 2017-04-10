@@ -1,0 +1,66 @@
+[ 2017-03-15T11:36:20+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T11:41:11+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T11:42:36+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T11:51:29+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T13:45:59+08:00 ] 127.0.0.1 /index.php/Home/Info/order
+ERR: 参数错误或者未定义:goodid
+
+[ 2017-03-15T13:55:49+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T13:57:15+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T13:57:36+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T13:59:04+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T13:59:37+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T14:40:03+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T14:46:07+08:00 ] 127.0.0.1 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T15:03:23+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T15:05:29+08:00 ] 127.0.0.1 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T15:12:54+08:00 ] 127.0.0.1 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T16:11:43+08:00 ] 127.0.0.1 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T16:28:35+08:00 ] 127.0.0.1 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T16:31:21+08:00 ] 127.0.0.1 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T16:35:35+08:00 ] 127.0.0.1 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T16:45:39+08:00 ] 127.0.0.1 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T16:47:45+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-15T16:52:11+08:00 ] 127.0.0.1 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+

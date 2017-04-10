@@ -1,0 +1,157 @@
+[ 2017-03-23T00:45:31+08:00 ] 123.151.138.56 /index.php/Home/Index/verifyreg?phone=13911775570
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone=13911775570 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-03-23T00:46:27+08:00 ] 101.226.61.207 /index.php/Home/Index/reg
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `qh_member` WHERE ( phone= ) LIMIT 1  
+
+[ 2017-03-23T00:46:44+08:00 ] 139.201.155.144 /index.php/Home/Index/reg
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `qh_member` WHERE ( phone= ) LIMIT 1  
+
+[ 2017-03-23T08:26:21+08:00 ] 123.151.138.56 /index.php/Home/Index/verifyreg?phone=13401030445
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `qh_member` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `qh_member` WHERE ( phone=13401030445 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-03-23T09:13:09+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T09:33:07+08:00 ] 211.100.11.181 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T09:35:29+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T09:35:41+08:00 ] 211.100.11.181 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T09:35:54+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T09:36:17+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T09:36:23+08:00 ] 211.100.11.181 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T11:25:56+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T11:41:47+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T11:43:33+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T11:45:45+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T11:50:28+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T12:15:10+08:00 ] 211.100.11.181 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T15:00:46+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T15:01:21+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T15:11:08+08:00 ] 211.100.11.181 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T15:13:46+08:00 ] 211.100.11.181 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T15:22:05+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T15:25:55+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T15:42:11+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:17:21+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:18:17+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:25:43+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:27:33+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:34:15+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:36:47+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:39:38+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:47:56+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:48:23+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:53:46+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:54:07+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:56:50+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:57:57+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T16:59:14+08:00 ] 119.253.37.157 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T17:02:27+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T17:08:25+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T17:12:30+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T18:45:51+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T18:46:15+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T18:47:40+08:00 ] 119.253.37.157 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T19:35:13+08:00 ] 123.117.80.42 /index.php/Home/Info/pay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T19:54:42+08:00 ] 123.117.80.42 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+
+[ 2017-03-23T19:58:28+08:00 ] 123.117.80.42 /index.php/Home/Remote/picpay
+NOTIC: D方法实例化没找到模型类Member\Model\AccountModel
+

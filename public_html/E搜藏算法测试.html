@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<!-- saved from url=(0036)http://59.110.67.18:9091/search.html -->
+<html class=" js no-touch csstransforms3d csstransitions video webkit chrome win js"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<title>E搜藏算法测试</title>
+		<meta name="keywords" content="HTML5,CSS3,Template">
+		<meta name="description" content="">
+		<meta name="Author" content="Dorin Grigoras [www.stepofweb.com]">
+
+		<!-- mobile settings -->
+		<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0">
+		<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+
+		<!-- WEB FONTS : use %7C instead of | (pipe) -->
+		
+
+		<!-- CORE CSS -->
+		<link href="./E搜藏算法测试_files/bootstrap.min.css" rel="stylesheet" type="text/css">
+		
+		<!-- THEME CSS -->
+		<link href="./E搜藏算法测试_files/essentials.css" rel="stylesheet" type="text/css">
+		<link href="./E搜藏算法测试_files/layout.css" rel="stylesheet" type="text/css">
+
+		<!-- PAGE LEVEL SCRIPTS -->
+		<link href="./E搜藏算法测试_files/header-1.css" rel="stylesheet" type="text/css">
+		<link href="./E搜藏算法测试_files/blue.css" rel="stylesheet" type="text/css" id="color_scheme">
+		
+		<style>
+		
+			body{
+				font-family:微软雅黑!important;
+			}
+			
+			.img-responsive{
+				max-height:400px!important;
+				max-width:400px!important;
+			}
+			.box-inner{
+			text-align:center;
+			}
+			
+			@media (min-width: 768px){
+				.h450{
+					height:450px!important;
+					vertical-align:middle!important;
+				}
+			}
+			.et-mirror,.et-ceramic,.et-jade{
+				background-repeat: no-repeat;
+				background-size: cover;
+			}
+			.et-mirror{
+				background-image:url(assets/images/m.jpg);
+			}
+			.et-ceramic{
+				background-image:url(assets/images/c.jpg);
+			}
+			.et-jade{
+				background-image:url(/assets/images/j.jpg);
+			}
+			.input-keyword{
+				height:40px;
+				padding:5px;
+				margin-bottom:20px;
+			}
+			
+			.logo{
+				font-size:24px;
+				color:#666;
+			}
+		</style>
+	</head>
+
+	
+	<body class="smoothscroll enable-animation">
+
+		<!-- SLIDE TOP -->
+		
+		<!-- /SLIDE TOP -->
+
+
+		<!-- wrapper -->
+		<div id="wrapper">
+
+			<div id="header" class="sticky clearfix">
+
+				<!-- TOP NAV -->
+				<header id="topNav">
+					<div class="container">
+
+						<!-- Mobile Menu Button -->
+						<button class="btn btn-mobile" data-toggle="collapse" data-target=".nav-main-collapse">
+							<i class="fa fa-bars"></i>
+						</button>
+
+						<!-- BUTTONS -->
+						<ul class="pull-right nav nav-pills nav-second-main">
+
+							<!-- SEARCH -->
+							<li class="search">
+								<a href="javascript:void(0);">
+									个人中心
+								</a>
+								
+							</li>
+							<!-- /SEARCH -->
+
+							
+
+						</ul>
+						<!-- /BUTTONS -->
+
+						<!-- Logo -->
+						<a class="logo pull-left" href="http://59.110.67.18:9091/search.html#">
+							<span class="logo">E搜藏</span>
+						</a>
+						<div class="navbar-collapse pull-right nav-main-collapse collapse">
+							<nav class="nav-main">
+								<ul id="topMain" class="nav nav-pills nav-main">
+									<li class="dropdown"><!-- HOME -->
+										<a href="http://59.110.67.18:9091/search.html#">
+											首页
+										</a>
+											</li>
+									<li class="dropdown active"><!-- PAGES -->
+										<a href="http://59.110.67.18:9091/search.html#">
+											搜索
+										</a>
+											</li>
+									<li class="dropdown"><!-- FEATURES -->
+										<a href="http://59.110.67.18:9091/search.html#">
+											团队
+										</a>
+										</li>
+									<li class="dropdown mega-menu"><!-- PORTFOLIO -->
+										<a href="http://59.110.67.18:9091/search.html#">
+											新闻
+										</a>
+												</li>
+									<li class="dropdown"><!-- BLOG -->
+										<a href="http://59.110.67.18:9091/search.html#">
+											社区
+										</a>
+											</li>
+									
+								</ul>
+
+							</nav>
+						</div>
+
+					</div>
+				</header>
+				<!-- /Top Nav -->
+
+			</div>
+
+			<section class="page-header page-header-xs">
+				<div class="container">
+
+					<!-- breadcrumbs -->
+					<ol class="breadcrumb breadcrumb-inverse">
+						<li><a href="http://59.110.67.18:9091/search.html#">首页</a></li>
+						<li><a href="http://59.110.67.18:9091/search.html#">搜索</a></li>
+						<li class="active">搜索测试</li>
+					</ol><!-- /breadcrumbs -->
+
+				</div>
+			</section>
+			<!-- /PAGE HEADER -->
+
+
+
+
+			<!-- -->
+			<section>
+				<div class="container">
+
+					<!-- RIGHT -->
+					<div class="col-lg-12 col-md-12 col-sm-12">
+
+						<!-- FLIP BOX -->
+						<div class="box-flip box-icon box-icon-center box-icon-round box-icon-large text-center nomargin" style="min-height: 185px;">
+							<div class="">
+								<div class="box1 noradius" style="min-height: 185px;">
+								<input type="file" class="hide" id="upfile">
+									<div class="box-icon-title">
+										<h4>
+										
+										<img id="srcimg" class="img-responsive h450 hide">
+										</h4>
+										<h4 id="sim"></h4>
+	
+									</div>
+									
+									
+									<div class="row">
+										<div class="col-sm-12">
+										<input type="text" placeholder="请输入关键词" class="input-keyword col-sm-10" id="keyword">
+										<button type="button" class="col-sm-2 btn btn-info" onclick="searchkeyword()">搜索</button>
+										<button type="button" onclick="dotest()">测试详情</button>
+										
+										</div>
+									</div>
+									
+									<div class="row">
+									<div class="col-sm-4">
+										<a onclick="uploadfile(&#39;m&#39;);" class="btn btn-warning btn-featured btn-inverse">
+											<span>上传铜镜</span>
+											<i class="et-mirror"></i>
+										</a>
+									</div>
+									<div class="col-sm-4">
+										<a onclick="uploadfile(&#39;c&#39;);" class="btn btn-info btn-featured btn-inverse">
+											<span>上传陶瓷</span>
+											<i class="et-ceramic"></i>
+										</a>
+									</div>
+									<div class="col-sm-4">
+										<a onclick="uploadfile(&#39;j&#39;);" class="btn btn-default btn-featured btn-inverse">
+											<span>上传玉石</span>
+											<i class="et-jade"></i>
+										</a>
+									</div>
+									
+									
+
+								</div>
+									
+								</div>
+							</div>
+
+
+						</div>
+						<!-- /FLIP BOX -->
+
+
+						<div class="box-light"><!-- .box-light OR .box-dark -->
+
+
+							<!-- PROJECT LIS -->
+							<div class="row" id="imglist">
+
+								<!-- item -->
+								
+								<!-- /item -->	
+
+							</div>
+							<!-- /PROJECTS LIS -->
+
+						</div>	
+
+					</div>
+					
+				</div>
+			</section>
+			<!-- / -->
+
+
+
+
+			<!-- FOOTER -->
+			<footer id="footer">
+				<div class="container">
+
+					<div class="row">
+						
+						<div class="col-md-3">
+							<!-- Footer Logo -->
+							<span class="logo" style="color:white;">E搜藏</span>
+
+							<!-- Small Description -->
+							<p>现代科技与传统艺术的完美结合.</p>
+
+							<!-- Contact Address -->
+							<address>
+								<ul class="list-unstyled">
+									<li class="footer-sprite address">
+										
+									</li>
+									<li class="footer-sprite phone">
+										联系电话: ****
+									</li>
+									<li class="footer-sprite email">
+										<a href="mailto:support@yourname.com">support@E搜藏.com</a>
+									</li>
+								</ul>
+							</address>
+							<!-- /Contact Address -->
+
+						</div>
+
+						<div class="col-md-3">
+
+							<!-- Latest Blog Post -->
+							
+							<!-- /Latest Blog Post -->
+
+						</div>
+
+						<div class="col-md-2">
+
+							<!-- Links -->
+							
+							<!-- /Links -->
+
+						</div>
+
+						<div class="col-md-4">
+
+							<!-- Newsletter Form -->
+							<h4 class="letter-spacing-1">联系我们</h4>
+							<p>您可以通过以下方式联系我们或者获取相关咨询！</p>
+
+							
+							<!-- /Newsletter Form -->
+
+							<!-- Social Icons -->
+							<div class="margin-top-20">
+								<a href="http://59.110.67.18:9091/search.html#" class="social-icon social-icon-border social-facebook pull-left" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook">
+
+									<i class="icon-facebook"></i>
+									<i class="icon-facebook"></i>
+								</a>
+
+								<a href="http://59.110.67.18:9091/search.html#" class="social-icon social-icon-border social-twitter pull-left" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter">
+									<i class="icon-twitter"></i>
+									<i class="icon-twitter"></i>
+								</a>
+
+								<a href="http://59.110.67.18:9091/search.html#" class="social-icon social-icon-border social-gplus pull-left" data-toggle="tooltip" data-placement="top" title="" data-original-title="Google plus">
+									<i class="icon-gplus"></i>
+									<i class="icon-gplus"></i>
+								</a>
+
+								<a href="http://59.110.67.18:9091/search.html#" class="social-icon social-icon-border social-linkedin pull-left" data-toggle="tooltip" data-placement="top" title="" data-original-title="Linkedin">
+									<i class="icon-linkedin"></i>
+									<i class="icon-linkedin"></i>
+								</a>
+
+								<a href="http://59.110.67.18:9091/search.html#" class="social-icon social-icon-border social-rss pull-left" data-toggle="tooltip" data-placement="top" title="" data-original-title="Rss">
+									<i class="icon-rss"></i>
+									<i class="icon-rss"></i>
+								</a>
+					
+							</div>
+							<!-- /Social Icons -->
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="copyright">
+					<div class="container">
+						<ul class="pull-right nomargin list-inline mobile-block">
+							<li><a href="http://59.110.67.18:9091/search.html#">Terms &amp; Conditions</a></li>
+							<li>•</li>
+							<li><a href="http://59.110.67.18:9091/search.html#">Privacy</a></li>
+						</ul>
+						© All Rights Reserved, Company LTD
+					</div>
+				</div>
+			</footer>
+			<!-- /FOOTER -->
+
+		</div>
+		<!-- /wrapper -->
+
+
+		<!-- SCROLL TO TOP -->
+		<a href="http://59.110.67.18:9091/search.html#" id="toTop"></a>
+
+
+		<!-- PRELOADER -->
+		<!-- /PRELOADER -->
+
+
+		<!-- JAVASCRIPT FILES -->
+		<script type="text/javascript">var plugin_path = 'assets/plugins/';</script>
+		<script type="text/javascript" src="./E搜藏算法测试_files/jquery-2.1.4.min.js.下载"></script>
+
+		<script type="text/javascript" src="./E搜藏算法测试_files/scripts.js.下载"></script>
+		
+		<script>
+			function searchkeyword(){
+				var html="";
+				$("#imglist").html("");
+				var keyword=$("#keyword").val();
+				$.ajax({
+						type: 'POST',
+						url: "/img/searchkeywords",
+						datatype:"JSON",
+						data: { "keyword":keyword,"token":"86AEC542-0694-4888-9047-18D7CB7A0D54,1486711092,I7J5iva691p4pOQ1aftvvlMhoIJobmXPpEmcq5J0mcLKOW1D6LbEbz7JCyMjbkm56MacM6MBXLDeO3afaVNbaZQE9Qvw03y3PeiNcqmCPRBBmKtAgUh8ITocgrxAStfI" },
+						success:function(res){
+							var data=JSON.parse(res);
+							var imgs=data.data.piclist;
+									for(var i=0;i<imgs.length && i<8;i++){
+									var item=imgs[i];
+									
+									var perspective=item["perspective"];
+										html+='<div class="col-md-6 col-sm-6"><div class="box-inner margin-top-30"><div class="h450"><a href="javascript:void(0);"><img class="img-responsive img" src="'+item["url"]+'" alt="image" data-id="'+item["id"]+'" /></a></div><h3 class="margin-top-20 bold size-16 elipsis text-center">'+item["name"]+'</h3><ul class="size-12 list-inline list-separator nomargin"><li></li><li>视角：'+ perspective+'</li></ul></div></div>';
+									}
+									$("#imglist").append(html);
+						},
+						error:function(){
+							alert("searchkeyword error!");
+						}
+						});
+			}
+		
+			var type="";
+			function uploadfile(t){
+				$("#imglist").html("");
+				//弹出文件选择对话框
+				type=t;
+				$("#upfile").click();
+			
+				//读取本地文件，转换成base64		
+			}
+			
+			$("#upfile").on("change",function(){
+			
+				var reader = new FileReader();
+				var f=$('#upfile')[0].files[0];
+
+				
+				
+				reader.readAsDataURL(f);
+				var token="";
+				var url="";
+				var type2="";
+				if(type=='m'){url="/img/comparebronze?token=";type2="mirror";}
+				else if(type=='c'){url="/img/compareceramic?token=";type2="ceramic";}
+				else if(type=='j'){url="/img/identifyjade?token=";type2="jade";}
+				var url2="http://59.110.67.18:9091/img/searchimgs";
+				reader.onload = function (e) {
+				$("#srcimg").removeClass("hide");
+				document.getElementById('srcimg').src = e.target.result;
+				// alert(e.target.result);
+				// console.log(e.target.result);
+					$.ajax({
+						type: 'POST',
+						url: url2,
+						datatype:"JSON",
+						data: { "img": e.target.result,"type":type2,"token":"" },
+						error:function(data){
+							alert(data)
+							alert(2);
+							console.log(data);
+						},
+						success:function(data){
+							alert(data);
+							alert(1);
+							console.log(data);
+							console.log(1);
+							var res =JSON.parse(data);
+							var html="";
+							if (res.status==0) {
+							
+							if(type=='m'||type=='c'){
+								$("#sim").html("");
+								var imgs=res.data;
+									for(var i=0;i<imgs.length && i<8;i++){
+									var item=imgs[i];
+									var similarity=parseFloat(item["similarity"])*100+"";
+									similarity=similarity.length>5?similarity.substring(0,4):similarity;
+									var perspective=item["perspective"];
+										html+='<div class="col-md-6 col-sm-6"><div class="box-inner margin-top-30"><div class="h450"><a href="javascript:void(0);"><img class="img-responsive img" src="'+item["url"]+'" alt="image" data-id="'+item["id"]+'"/></a></div><h3 class="margin-top-20 bold size-16 elipsis text-center">'+item["name"]+'</h3><ul class="size-12 list-inline list-separator nomargin"><li>相似度：'+ similarity+'%</li><li>视角：'+ perspective+'</li></ul></div></div>';
+									}
+									$("#imglist").append(html);
+								}else{
+									if(type=='j'){
+										var s=parseFloat(res.data);
+										if(s>0 && s<1.1){
+											s=s*100+"";
+											s=s.length>5?s.substring(0,4):s;
+											s=s+"%";
+											$("#sim").html(s);
+										}
+										else{
+										$("#sim").html(res.data);
+										}
+									}
+								}
+							} else {
+								
+							}
+						
+						}
+					
+						
+					});
+				};
+			});
+			
+			$(document).ready(function(){
+		
+		$(document).on("click",".img",function(){
+			getdetail($(this).attr("data-id"));
+		});
+		});
+		
+		function dotest(){
+			var id="5dd3d912-de19-11e6-8386-00163e302e1c";
+			getdetail(id);
+		}
+		
+			function getdetail(id){
+				$.ajax({
+						type: 'POST',
+						url: "/img/getdetail",
+						datatype:"JSON",
+						data: { "id":id,"token":"86AEC542-0694-4888-9047-18D7CB7A0D54,1486711092,I7J5iva691p4pOQ1aftvvlMhoIJobmXPpEmcq5J0mcLKOW1D6LbEbz7JCyMjbkm56MacM6MBXLDeO3afaVNbaZQE9Qvw03y3PeiNcqmCPRBBmKtAgUh8ITocgrxAStfI" },
+						success:function(res){
+							alert(res);
+						},
+						error:function(){
+							alert("searchkeyword error!");
+						}
+						});
+			}
+		</script>
+	
+<script type="text/javascript" src="./E搜藏算法测试_files/bootstrap.min.js.下载"></script><script type="text/javascript" src="./E搜藏算法测试_files/smoothscroll.js.下载"></script><script type="text/javascript" src="./E搜藏算法测试_files/custom.fle_upload.js.下载"></script></body></html>

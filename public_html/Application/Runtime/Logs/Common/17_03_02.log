@@ -1,0 +1,96 @@
+[ 2017-03-02T09:24:14+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Index/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载模块:Index
+
+[ 2017-03-02T09:24:30+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Index/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载模块:Index
+
+[ 2017-03-02T09:24:35+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/index.php/Index/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 无法加载模块:Index
+
+[ 2017-03-02T10:44:21+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Member/View/Layer/__ROOT__/Application/Public/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-02T10:44:21+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Member/View/Layer/__ROOT__/Application/Public/js/jquery-1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-02T10:44:22+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/Application/Member/View/Layer/__ROOT__/Application/Public/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:Application
+
+[ 2017-03-02T10:45:51+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/__ROOT__/Application/Public/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-03-02T10:45:51+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/__ROOT__/Application/Public/js/jquery-1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-03-02T10:45:51+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/__ROOT__/Application/Public/images/phone-ma.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001437s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-03-02T10:45:51+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/__ROOT__/Application/Public/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-03-02T10:48:06+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/__ROOT__/Application/Public/js/jquery-1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-03-02T10:48:06+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/__ROOT__/Application/Public/images/phone-ma.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-03-02T10:48:06+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/__ROOT__/Application/Public/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001240s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-03-02T10:48:29+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/__ROOT__/Application/Public/js/jquery-1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-03-02T10:48:29+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/__ROOT__/Application/Public/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-03-02T10:48:29+08:00 ] ::1 /HUITENG/w79_qinghuaci/thinkphp_3.2.3_full/__ROOT__/Application/Public/images/phone-ma.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+ERR: 无法加载模块:__ROOT__
+
